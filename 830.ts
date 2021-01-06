@@ -1,5 +1,3 @@
-// https://leetcode-cn.com/problems/positions-of-large-groups/
-
 function largeGroupPositions(s: string): number[][] {
   // 边界情况单独处理
   if (s.length < 3) return [];
