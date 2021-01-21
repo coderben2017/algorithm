@@ -6,5 +6,5 @@
     - 题解：[830.ts](./830.ts)
 2. [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/)
     - 题解：[1002.ts](./1002.ts)
-3. [x 的平方根](hhttps://leetcode-cn.com/problems/sqrtx/)
+3. [x的平方根](https://leetcode-cn.com/problems/sqrtx/)
     - 题解：[69.ts](./69.ts)
