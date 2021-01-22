@@ -8,3 +8,5 @@
     - 题解：[1002.ts](./1002.ts)
 3. [x的平方根](https://leetcode-cn.com/problems/sqrtx/)
     - 题解：[69.ts](./69.ts)
+4. [最小栈](https://leetcode-cn.com/problems/min-stack/)
+    - 题解：[155.ts](./155.ts)
