@@ -10,3 +10,5 @@
     - 题解：[69.ts](./69.ts)
 4. [最小栈](https://leetcode-cn.com/problems/min-stack/)
     - 题解：[155.ts](./155.ts)
+5. [合并区间](https://leetcode-cn.com/problems/merge-intervals/)
+    - 题解：[56.ts](./56.ts)
