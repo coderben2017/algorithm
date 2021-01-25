@@ -14,3 +14,5 @@
     - 题解：[56.ts](./56.ts)
 6. [判断能否形成等差数列](https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/)
     - 题解：[1502.ts](./1502.ts)
+7. [坏了的计算器](https://leetcode-cn.com/problems/broken-calculator/)
+    - 题解：[991.ts](./991.ts)
