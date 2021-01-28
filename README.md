@@ -16,3 +16,5 @@
     - 题解：[1502.ts](./1502.ts)
 7. [坏了的计算器](https://leetcode-cn.com/problems/broken-calculator/)
     - 题解：[991.ts](./991.ts)
+8. [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/)
+    - 题解：[724.ts](./724.ts)
